@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+Module.symvers
+modules.order
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Build directories
+src/*.o.cmd
+*.tmp
