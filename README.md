@@ -184,14 +184,6 @@ echo "port_scan disable" | sudo tee /proc/net_traffic_monitor/config
 - RCU-safe hash table lookups
 - Atomic64 counters for stats
 
-## Resume-Worthy Highlights
-
-- **Kernel Programming**: Demonstrates deep understanding of Linux kernel internals
-- **Netfilter Hooks**: Real-world experience with packet processing at kernel level
-- **Procfs**: User-kernel communication interface
-- **Lock-Free Design**: atomic64 operations, RCU patterns
-- **Production Code**: Proper error handling, cleanup, modular design
-
 ## License
 
 GPL v2
